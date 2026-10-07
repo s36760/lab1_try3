@@ -1,5 +1,5 @@
 public class Main {
-  public static void main(String args) {
+  public static void Main(String args) {
     Adder adder = new Adder();
     System.out.println(adder.add(1, 2));
     Subtractor subtractor = new Subtractor();
